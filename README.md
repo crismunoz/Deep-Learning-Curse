@@ -1,8 +1,8 @@
-# Curso Deep-Learning
+# Curso Deep Learning
 
 Este é o repositorio de códigos para o curso de Introdução a Deep Learning (PUC-Rio), ele contém todos os arquivos de projeto de suporte necessários para trabalhar no curso do início ao fim.
 
-# O curso
+# O Curso
 O curso começa com uma introdução a redes neurais, processamento de sinais e computação de alto desempenho. Os laboratorios do curso estão baseado nos modelos atualmente mais relevantes: 
 
 * Redes Neurais Convolutivas. 
@@ -16,7 +16,7 @@ O curso começa com uma introdução a redes neurais, processamento de sinais e 
 
 Os laboratorios foram realizados utilizando matlab, tensorflow, keras, theano.
 
-# Pre-Requisitos
+# Pré-Requisitos
 
 * Python 3.X
 * Tensorflow  >=1.0.0 (https://www.tensorflow.org/install/)
